@@ -34,4 +34,4 @@ This will load the value of each ".description" in individual time blocks that h
 ### Deployed Application
 
 Link: 
-
+https://seanxmcdaniel.github.io/workday-app/
